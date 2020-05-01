@@ -85,6 +85,7 @@ void execute_statement(Statement* statement) {
             break;
     }
 }
+
 void print_prompt() { printf("db > "); }
 
 int main(int argc, char* argv[]) {
